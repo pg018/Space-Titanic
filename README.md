@@ -20,4 +20,6 @@ VRDeck - Expenditure on VRDeck<br>
 Name - name of passenger<br>
 
 The label is - 
-Transported - Was passenger transported
+Transported - Was passenger transported<br><br>
+
+Finally, we have to predict for the rest of the passengers given in the test file.
